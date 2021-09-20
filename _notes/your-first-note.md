@@ -1,8 +1,8 @@
 ---
-title: Your first seed
+title: Test
 ---
 
-### Welcome!
+### Lets see what we can do with this!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
